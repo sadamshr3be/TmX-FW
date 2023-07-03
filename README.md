@@ -1,10 +1,9 @@
 # TMX
 Script Hacking By PythoN
-تثبيت الاداة
 
-pkg install python2 
+apt install python2 
 
-pkg install git 
+apt install git 
 
 git clone https://github.com/sadamshr3be/TmX-FW 
 
